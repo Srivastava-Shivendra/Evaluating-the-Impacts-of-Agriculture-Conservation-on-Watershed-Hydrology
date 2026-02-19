@@ -1,3 +1,4 @@
 # Evaluating-the-Impacts-of-Agriculture-Conservation-on-Watershed-Hydrology
 Water Resources Research - Shivendra Srivastava, Tirthankar Roy, Andrea Basche, Yongping Yuan, Elbert Traylor
+
 Implementation of ACPs such as cover crops and tillage management tends to reduce peak flows and improve water quality, supporting agricultural ecosystem sustainability. We utilized indicators of ACP, water quantity, and water quality to understand their trend and mutual influence, providing insights into the effectiveness of ACPs at the watershed level. The result suggested that ACPs have positively influenced watershed hydrology and water quality. Notably, the increased adoption of ACPs in the watershed resulted in a reduction in the frequency and intensity of flooding due to extreme events, supporting the value of increased implementation of ACPs in the future.
